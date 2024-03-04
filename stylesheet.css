@@ -1,0 +1,37 @@
+body{
+    font-size: 24px;
+}
+.professional {
+    background: rgb(16, 100, 129);
+
+    margin: 24px;
+
+    padding: 24px;
+}
+.personal {
+    background: rgb(215, 129, 129);
+
+    margin: 24px;
+
+    padding: 24px;
+}
+.link:hover {
+    background-color: rgb(180, 180, 61);
+}
+
+.img-headshot {
+    width: 600px;
+    height: 800px;
+    background-image: url(Headshot.PNG);
+    background-size: 100%;
+}
+
+.header {
+    color: black;
+    font-size: 40px;
+}
+
+#text {
+    color: peachpuff;
+    font-size: 30px;
+}
